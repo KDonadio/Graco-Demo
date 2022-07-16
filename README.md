@@ -1,5 +1,5 @@
 # Graco-Demo
-Demonstrates music playing capabilities on Chimera as well as simple BLE data control.
+This project demonstrates the music playing capabilities of Chimera as well as simple BLE data control.
 Music is generated using PWM, currently in 8-bit mode with provisions for 16-bit.
 The PWM signal is filtered with an 3rd order active low pass filter and then amplified with a small class D amplifier.
 I am using an old Alexa Dot for the speaker since they sound good. Be sure to plug the speaker in before the USB cable!!
