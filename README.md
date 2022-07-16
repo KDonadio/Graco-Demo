@@ -17,4 +17,4 @@ The MIT App Inventor source is also included as an AIA file.
 
 The MPLABX project files are in the ZIP file.
 
-![Android App Screenshot](https://user-images.githubusercontent.com/57275578/179342315-64eefdae-1b83-44d5-96eb-c7a207b10356.jpg)
+![Android App Screenshot (Small)](https://user-images.githubusercontent.com/57275578/179342346-aace95ce-b875-411d-9471-fe88b61cfe02.jpg)
