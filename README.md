@@ -8,7 +8,7 @@ The Android App allows you to control Chimera using similar buttons as the Graco
   Press Speed Down and the Red LED will go off.
   Press Volume Up and the Blue LED will come on.
   Press Volume Down and the Blue LED will go off.
-  Press the Music button and music will play. f pressed while playing it will skip to the next song
+  Press the Music button and music will play. If pressed while playing it will skip to the next song.
 Currently there are three short song files but anything could be added here.
 
 An Android App was created with MIT App Inventor and is included here as an APK file. 
